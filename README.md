@@ -9,11 +9,16 @@ npm i -D typescript vitest tsx
 
 npx tsc --init
 ```
+* initialize npm package
+* install typescript and tsx for typescript coding
+* install vitest for unit testing
+* initialize tsconfig.json
+
 ## Step 1: Create src and test folders
 ``` 
 mkdir -p src test
 ```
-
+* create folder src and test for better code structure
 ## Step 2: Implement merge function in src/merge.ts
 * start from the smallest element of each collection
 * compare them, put the smallest one to the result collection
