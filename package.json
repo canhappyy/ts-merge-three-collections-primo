@@ -1,0 +1,25 @@
+{
+  "name": "ts-merge-three-collections-primo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canhappyy/ts-merge-three-collections-primo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canhappyy/ts-merge-three-collections-primo/issues"
+  },
+  "homepage": "https://github.com/canhappyy/ts-merge-three-collections-primo#readme",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
+  }
+}
