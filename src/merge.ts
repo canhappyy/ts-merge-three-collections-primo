@@ -5,9 +5,9 @@ export function merge(
 ): number[] {
     const result: number[] = [];
 
-    let i = 0;
-    let j = collection_2.length - 1;
-    let k = 0;
+    let i = 0; // Ascending
+    let j = collection_2.length - 1; // Descending
+    let k = 0; // Ascending
 
     while (
         i < collection_1.length ||
